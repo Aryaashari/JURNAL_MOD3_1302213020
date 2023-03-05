@@ -19,13 +19,16 @@ namespace modul2_1302213020
 
         private int hasilKalkulator = 0;
         private string kalkulatorLabel = "";
-        private void nol_Click(object sender, EventArgs e)
+
+        // Zero Button
+        private void button3_Click(object sender, EventArgs e)
         {
             this.kalkulatorLabel += 0;
             hasil.Text = kalkulatorLabel;
         }
 
-        private void satu_Click(object sender, EventArgs e)
+        // One Button
+        private void button6_Click(object sender, EventArgs e)
         {
             this.kalkulatorLabel += 1;
             hasil.Text = kalkulatorLabel;
