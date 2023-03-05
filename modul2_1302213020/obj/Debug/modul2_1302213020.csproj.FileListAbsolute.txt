@@ -1,0 +1,11 @@
+D:\modul2_1302213020\modul2_1302213020\bin\Debug\modul2_1302213020.exe.config
+D:\modul2_1302213020\modul2_1302213020\bin\Debug\modul2_1302213020.exe
+D:\modul2_1302213020\modul2_1302213020\bin\Debug\modul2_1302213020.pdb
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.csproj.AssemblyReference.cache
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.csproj.SuggestedBindingRedirects.cache
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.Form1.resources
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.Properties.Resources.resources
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.csproj.GenerateResource.cache
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.csproj.CoreCompileInputs.cache
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.exe
+D:\modul2_1302213020\modul2_1302213020\obj\Debug\modul2_1302213020.pdb
